@@ -1,0 +1,15 @@
+*.o
+*.lst
+*.d
+*.s
+.dep/
+main.hex
+main.eep
+main.obj
+main.cof
+main.elf
+main.map
+main.a90
+main.sym
+main.lnk
+main.lss
